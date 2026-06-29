@@ -1,0 +1,1 @@
+# Klasörün bir Python modülü olduğunu belirtir (Boş bir dosya)
