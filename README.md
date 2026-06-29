@@ -1,7 +1,6 @@
 # Flight Price Prediction Radar
 
 ![Streamlit UI Screenshot](img/ss.png) 
-*A preview of the interactive Streamlit web dashboard.*
 
 ## Project Overview
 This project is an end-to-end Machine Learning pipeline designed to predict dynamic flight ticket prices based on various features such as days left to departure, airline company, flight class, and duration. The core objective is to understand the underlying pricing mechanics of airlines and provide an accurate estimation tool for travelers. 
